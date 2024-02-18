@@ -11,4 +11,9 @@ Imagination Flipper: An Image-First GPT for Creative Relationship Reversal and S
 ```
 
 **Link**
-[imagination-flipper](https://chat.openai.com/g/g-5vFNFUx7A-imagination-flipper)
+
+[Imagination Flipper](https://chat.openai.com/g/g-5vFNFUx7A-imagination-flipper)
+
+**Tasks**
+
+[Tasks](tasks/Imagination%20Flipper%20Tasks.md)

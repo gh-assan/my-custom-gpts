@@ -56,7 +56,7 @@ Track my custom gpts
 
 [how-to-master](https://chat.openai.com/g/g-O3lzE727q-how-to-master)
 
-[imagination-flipper](https://chat.openai.com/g/g-5vFNFUx7A-imagination-flipper)
+[Imagination Flipper](https://chat.openai.com/g/g-5vFNFUx7A-imagination-flipper)
 
 [infographs-creator](https://chat.openai.com/g/g-b4MWpLgO2-infographs-creator)
 
