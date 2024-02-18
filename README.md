@@ -18,6 +18,8 @@ Track my custom gpts
 
 [Dashboard Designer](https://chat.openai.com/g/g-XHn5Litlw-dashboard-designer)
 
+[Visual Character Designer](https://chat.openai.com/g/g-TS0cZ4QOv-visual-character-designer)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
