@@ -36,6 +36,8 @@ Track my custom gpts
 
 [Arabic Poetry Assistant](https://chat.openai.com/g/g-5PNgSOBWU-arabic-poetry-assistant)
 
+[Brainstorm Buddy](https://chat.openai.com/g/g-Tn7C4iPeo-brainstorm-buddy)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
