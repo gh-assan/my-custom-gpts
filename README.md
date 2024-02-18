@@ -6,6 +6,8 @@ Track my custom gpts
 
 [Book Builder Buddy](https://chat.openai.com/g/g-yChyzI4nE-book-builder-buddy)
 
+[The Great Pretender](https://chat.openai.com/g/g-g3Eqo2IfE-the-great-pretender)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
