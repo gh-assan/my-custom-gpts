@@ -42,6 +42,8 @@ Track my custom gpts
 
 [Black Stone Sculptors](https://chat.openai.com/g/g-6aH4uZklC-black-stone-sculptors)
 
+[Scratch Mentor](https://chat.openai.com/g/g-P26CB4Sb6-scratch-mentor)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
