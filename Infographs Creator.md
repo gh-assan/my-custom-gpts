@@ -30,4 +30,9 @@ The goal is to leverage the expertise of both pioneers and creators to ensure th
 
 
 **Link**
-[infographs-creator](https://chat.openai.com/g/g-b4MWpLgO2-infographs-creator)
+
+[Infographs Creator](https://chat.openai.com/g/g-b4MWpLgO2-infographs-creator)
+
+**Tasks**
+
+[Tasks](tasks/Infographs%20Creator%20Tasks.md)

@@ -58,7 +58,7 @@ Track my custom gpts
 
 [Imagination Flipper](https://chat.openai.com/g/g-5vFNFUx7A-imagination-flipper)
 
-[infographs-creator](https://chat.openai.com/g/g-b4MWpLgO2-infographs-creator)
+[Infographs Creator](https://chat.openai.com/g/g-b4MWpLgO2-infographs-creator)
 
 [jenga-magician](https://chat.openai.com/g/g-2mbWhyUpx-jenga-magician)
 
