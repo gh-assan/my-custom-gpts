@@ -28,6 +28,8 @@ Track my custom gpts
 
 [Data Visualizer](https://chat.openai.com/g/g-IhRw01rbO-data-visualizer)
 
+[VisualizeIt](https://chat.openai.com/g/g-tQUDZFvfJ-visualizeit)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
