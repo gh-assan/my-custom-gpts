@@ -62,7 +62,7 @@ Track my custom gpts
 
 [jenga-magician](https://chat.openai.com/g/g-2mbWhyUpx-jenga-magician)
 
-[prompt-optimizer](https://chat.openai.com/g/g-naWhKJz8Z-prompt-optimizer)
+[Prompt Optimizer](https://chat.openai.com/g/g-naWhKJz8Z-prompt-optimizer)
 
 [story-teller](https://chat.openai.com/g/g-7WckyrCEv-story-teller)
 
