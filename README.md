@@ -48,7 +48,7 @@ Track my custom gpts
 
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
-[caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
+[Caricature Composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
 
 [cheat-sheet-wizard](https://chat.openai.com/g/g-u7N2MhXBi-cheat-sheet-wizard)
 
