@@ -10,4 +10,9 @@ Guide Master combines a friendly and approachable tone with professional-level d
 ```
 
 **Link**
-[how-to-master](https://chat.openai.com/g/g-O3lzE727q-how-to-master)
+
+[How To Master](https://chat.openai.com/g/g-O3lzE727q-how-to-master)
+
+**Tasks**
+
+[Tasks](tasks/How%20To%20Master%20Tasks.md)

@@ -54,7 +54,7 @@ Track my custom gpts
 
 [evo](https://chat.openai.com/g/g-wCyxbqJ7v-evo)
 
-[how-to-master](https://chat.openai.com/g/g-O3lzE727q-how-to-master)
+[How To Master](https://chat.openai.com/g/g-O3lzE727q-how-to-master)
 
 [Imagination Flipper](https://chat.openai.com/g/g-5vFNFUx7A-imagination-flipper)
 
