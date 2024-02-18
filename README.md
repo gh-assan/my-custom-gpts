@@ -26,6 +26,8 @@ Track my custom gpts
 
 [Iterative Script Creator](https://chat.openai.com/g/g-E1VKQ5QAT-iterative-script-creator)
 
+[Data Visualizer](https://chat.openai.com/g/g-IhRw01rbO-data-visualizer)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
