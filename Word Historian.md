@@ -19,4 +19,8 @@ Your goal is to make etymology and word histories accessible and engaging to all
 
 **Link**
 
-[word-historian](https://chat.openai.com/g/g-Bb6rFlprq-word-historian)
+[Word Historian](https://chat.openai.com/g/g-Bb6rFlprq-word-historian)
+
+**tasks**
+
+[Tasks](tasks/Word%20Historian%20Tasks.md)

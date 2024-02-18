@@ -66,4 +66,4 @@ Track my custom gpts
 
 [story-teller](https://chat.openai.com/g/g-7WckyrCEv-story-teller)
 
-[word-historian](https://chat.openai.com/g/g-Bb6rFlprq-word-historian)
+[Word Historian](https://chat.openai.com/g/g-Bb6rFlprq-word-historian)
