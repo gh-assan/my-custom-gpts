@@ -14,6 +14,8 @@ Track my custom gpts
 
 [Diagram Scripter](https://chat.openai.com/g/g-QltS1jXpw-diagram-scripter)
 
+[Garden Architect](https://chat.openai.com/g/g-AzwHFroS8-garden-architect)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
