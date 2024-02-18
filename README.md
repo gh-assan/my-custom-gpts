@@ -34,6 +34,8 @@ Track my custom gpts
 
 [Love Letter Writer](https://chat.openai.com/g/g-G1Gh61fiR-love-letter-writer)
 
+[Arabic Poetry Assistant](https://chat.openai.com/g/g-5PNgSOBWU-arabic-poetry-assistant)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
