@@ -38,6 +38,8 @@ Track my custom gpts
 
 [Brainstorm Buddy](https://chat.openai.com/g/g-Tn7C4iPeo-brainstorm-buddy)
 
+[Reconnect the Parts](https://chat.openai.com/g/g-CAjrqhKOl-reconnect-the-parts)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
