@@ -40,6 +40,8 @@ Track my custom gpts
 
 [Reconnect the Parts](https://chat.openai.com/g/g-CAjrqhKOl-reconnect-the-parts)
 
+[Black Stone Sculptors](https://chat.openai.com/g/g-6aH4uZklC-black-stone-sculptors)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
