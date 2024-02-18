@@ -46,7 +46,7 @@ Track my custom gpts
 
 [Manga Art Creator](https://chat.openai.com/g/g-Jqpiq3S0q-manga-art-creator)
 
-[best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
+[Best Practices Consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [Caricature Composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
 

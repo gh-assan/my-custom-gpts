@@ -11,4 +11,9 @@ The Deep Analysis Consultant, while offering in-depth, expert-consulted response
 ```
 
 **Link**
-[best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
+
+[Best Practices Consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
+
+**Tasks**
+
+[Tasks](tasks/Best%20Practices%20Consultant%20Tasks.md)
