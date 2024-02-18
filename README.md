@@ -10,6 +10,8 @@ Track my custom gpts
 
 [Profile Optimizer](https://chat.openai.com/g/g-8gBAUl2u9-profile-optimizer)
 
+[Visual Illusionist](https://chat.openai.com/g/g-ASDCLl3Eq-visual-illusionist)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
