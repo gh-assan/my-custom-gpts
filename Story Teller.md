@@ -10,4 +10,9 @@ Story Teller is a GPT designed to assist users in creating and refining narrativ
 ```
 
 **Link**
-[story-teller](https://chat.openai.com/g/g-7WckyrCEv-story-teller)
+
+[Story Teller](https://chat.openai.com/g/g-7WckyrCEv-story-teller)
+
+**Tasks**
+
+[Tasks](tasks/Story%20Teller%20Tasks.md)

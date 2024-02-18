@@ -64,6 +64,6 @@ Track my custom gpts
 
 [Prompt Optimizer](https://chat.openai.com/g/g-naWhKJz8Z-prompt-optimizer)
 
-[story-teller](https://chat.openai.com/g/g-7WckyrCEv-story-teller)
+[Story Teller](https://chat.openai.com/g/g-7WckyrCEv-story-teller)
 
 [Word Historian](https://chat.openai.com/g/g-Bb6rFlprq-word-historian)
