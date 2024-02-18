@@ -12,6 +12,8 @@ Track my custom gpts
 
 [Visual Illusionist](https://chat.openai.com/g/g-ASDCLl3Eq-visual-illusionist)
 
+[Diagram Scripter](https://chat.openai.com/g/g-QltS1jXpw-diagram-scripter)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
