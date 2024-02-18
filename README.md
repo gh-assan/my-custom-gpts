@@ -50,7 +50,7 @@ Track my custom gpts
 
 [Caricature Composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
 
-[cheat-sheet-wizard](https://chat.openai.com/g/g-u7N2MhXBi-cheat-sheet-wizard)
+[Cheat Sheet Wizard](https://chat.openai.com/g/g-u7N2MhXBi-cheat-sheet-wizard)
 
 [evo](https://chat.openai.com/g/g-wCyxbqJ7v-evo)
 

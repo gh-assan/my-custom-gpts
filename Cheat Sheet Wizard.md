@@ -11,4 +11,9 @@ Cheat Sheet Wizard's primary role is to generate comprehensive, semi-complete ch
 ```
 
 **Link**
-[cheat-sheet-wizard](https://chat.openai.com/g/g-u7N2MhXBi-cheat-sheet-wizard)
+
+[Cheat Sheet Wizard](https://chat.openai.com/g/g-u7N2MhXBi-cheat-sheet-wizard)
+
+**Tasks**
+
+[Tasks](tasks/Cheat%20Sheet%20Wizard%20Tasks.md)
