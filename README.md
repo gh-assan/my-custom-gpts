@@ -44,6 +44,8 @@ Track my custom gpts
 
 [Scratch Mentor](https://chat.openai.com/g/g-P26CB4Sb6-scratch-mentor)
 
+[Manga Art Creator](https://chat.openai.com/g/g-Jqpiq3S0q-manga-art-creator)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
