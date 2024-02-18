@@ -2,6 +2,7 @@
 
 Track my custom gpts  
 
+[Negotiation Insight](https://chat.openai.com/g/g-j7T9dXswb-negotiation-insight)
 
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
