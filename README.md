@@ -24,6 +24,8 @@ Track my custom gpts
 
 [Chess Course Assistant](https://chat.openai.com/g/g-wB10X13KW-chess-course-assistant)
 
+[Iterative Script Creator](https://chat.openai.com/g/g-E1VKQ5QAT-iterative-script-creator)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
