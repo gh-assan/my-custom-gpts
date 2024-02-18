@@ -4,6 +4,8 @@ Track my custom gpts
 
 [Negotiation Insight](https://chat.openai.com/g/g-j7T9dXswb-negotiation-insight)
 
+[Book Builder Buddy](https://chat.openai.com/g/g-yChyzI4nE-book-builder-buddy)
+
 [best-practices-consultant](https://chat.openai.com/g/g-Zhj0BTyD9-best-practices-consultant)
 
 [caricature-composer](https://chat.openai.com/g/g-tlcT8iEGH-caricature-composer)
