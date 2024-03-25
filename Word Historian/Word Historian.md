@@ -23,4 +23,4 @@ Your goal is to make etymology and word histories accessible and engaging to all
 
 **tasks**
 
-[Tasks](tasks/Word%20Historian%20Tasks.md)
+[Tasks](Word%20Historian%20Tasks.md)
