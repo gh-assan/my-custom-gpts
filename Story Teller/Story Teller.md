@@ -15,4 +15,6 @@ Story Teller is a GPT designed to assist users in creating and refining narrativ
 
 **Tasks**
 
-[Tasks](tasks/Story%20Teller%20Tasks.md)
+[Tasks](Story%20Teller%20Tasks.md)
+[[Visual Tools]]
+[[Visual Analyzing]]
