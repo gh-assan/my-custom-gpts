@@ -1,7 +1,5 @@
 ```json
-
 {
-
   "Character Design": "Develop visually distinctive characters that align with their personalities and narrative roles, focusing on creative strategies for character creation.",
 
   "Color Palette": "Evaluate the use of specific color schemes to evoke emotions, signify themes, or distinguish story elements, highlighting the emotional intelligence in color selection.",
@@ -51,7 +49,5 @@
   "Visual Pacing": "Control the rhythm and speed of visual elements to match the story pacing, focusing on visual pacing techniques to enhance narrative tension or relaxation.",
 
   "Infographics and Data Visualization": "Use graphical representations of data to explain complex ideas or settings, emphasizing the role of visual data in storytelling context."
-
 }
-
 ```

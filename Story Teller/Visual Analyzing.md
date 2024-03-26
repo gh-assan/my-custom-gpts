@@ -1,6 +1,5 @@
 ```json
 {
-
   "Mind Mapping": "Utilize diagrams to visually organize information and illustrate relationships among parts of a whole, emphasizing the structure and interconnections in storytelling.",
 
   "Mood Boards": "Create collages that compile images, materials, colors, and text to establish the story's mood or visual style, aiding in the visualization of thematic elements.",
@@ -50,6 +49,5 @@
   "Color Coding": "Apply color coding to organize themes, characters, or plot lines, simplifying the management of complex narrative elements.",
 
   "Graphical Character Profiles": "Create visual profiles including images and brief points on characters' traits and relationships, supporting detailed character analysis."
-
 }
 ```
