@@ -16,4 +16,4 @@ https://chat.openai.com/g/g-XHn5Litlw-dashboard-designer
 
 **tasks**
 
-[tasks](tasks/Dashboard%20Designer%20Tasks.md)
+[tasks](Dashboard%20Designer%20Tasks.md)
