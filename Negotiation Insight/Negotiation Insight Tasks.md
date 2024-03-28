@@ -1,5 +1,4 @@
 
-
 ``` json
 {
   "Key Negotiation Principles": "Summarize the core negotiation principles from 'Never Split the Difference'.",
@@ -74,7 +73,6 @@
 }
 ```
 
-—--
 
 ``` json
 {
@@ -105,9 +103,6 @@
 }
 ```
 
-
-
-—--
 
 ```json
 {
