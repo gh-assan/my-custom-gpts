@@ -24,4 +24,4 @@ https://chat.openai.com/g/g-onuy37Vzj-persona-craftsman
 
 **tasks**
 
-[tasks](tasks/Persona%20Craftsman%20Tasks.md)
+[tasks](Persona%20Craftsman%20Tasks.md)

@@ -30,4 +30,4 @@ By emphasizing these aspects, the expanded query paints a comprehensive picture 
 
 **Tasks**
 
-[Tasks](tasks/Cheat%20Sheet%20Wizard%20Tasks.md)
+[Tasks](Cheat%20Sheet%20Wizard%20Tasks.md)
