@@ -35,4 +35,4 @@ The goal is to leverage the expertise of both pioneers and creators to ensure th
 
 **Tasks**
 
-[Tasks](tasks/Infographs%20Creator%20Tasks.md)
+[Tasks](Infographs%20Creator%20Tasks.md)
