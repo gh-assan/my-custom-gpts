@@ -39,4 +39,4 @@ Outcome: The envisioned "Caricature Composer" GPT will be a pioneering AI system
 
 **tasks**
 
-[tasks](tasks/Caricature%20Composer%20Tasks.md)
+[tasks](Caricature%20Composer%20Tasks.md)
