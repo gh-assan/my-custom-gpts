@@ -16,4 +16,4 @@ Imagination Flipper: An Image-First GPT for Creative Relationship Reversal and S
 
 **Tasks**
 
-[Tasks](tasks/Imagination%20Flipper%20Tasks.md)
+[Tasks](Imagination%20Flipper%20Tasks.md)
