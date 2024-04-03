@@ -28,4 +28,4 @@ https://chat.openai.com/g/g-AzwHFroS8-garden-architect
 
 **tasks**
 
-[tasks](tasks/Garden%20Architect%20Tasks.md)
+[tasks](Garden%20Architect%20Tasks.md)
