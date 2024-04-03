@@ -20,4 +20,4 @@ for 10 iteration
 
 **Tasks**
 
-[Tasks](tasks/Prompt%20Optimizer%20Tasks.md)
+[Tasks](Prompt%20Optimizer%20Tasks.md)
